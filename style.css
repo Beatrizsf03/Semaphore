@@ -1,0 +1,24 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    margin: 10%;
+}
+
+button{
+    height: 3rem;
+    width: 6rem;
+    padding: 0.5rem 1rem;
+    border-radius: 15px;
+    background-color: #ba181b;
+    color: #f5f3f4;
+    font-weight: 600;
+}
