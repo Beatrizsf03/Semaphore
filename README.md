@@ -1,7 +1,7 @@
 # Semaphore
 Hello. I did this project following the teachings of Fernando Leonid on youtube. Video link: https://youtu.be/EujFSEsZsk4
 
-Project details: Project of a traffic light that changes color according to the buttons.
+Project details: A traffic light project that changes color based on the buttons.
 
 <p align="center">Result:</p>
 
